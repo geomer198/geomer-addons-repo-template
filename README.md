@@ -1,6 +1,6 @@
-# OCA Addons Repo Template
+# Geomer Addons Repo Template
 
-This is a template created to make easier the task of maintaining OCA addon
+This is a template created to make easier the task of maintaining Geomer addon
 repositories.
 
 ## Why?
@@ -26,7 +26,7 @@ pipx install copier
 pipx install pre-commit
 pipx ensurepath
 # Clone this template and answer its questions
-copier copy --UNSAFE https://github.com/OCA/oca-addons-repo-template.git some-repo
+copier copy --UNSAFE https://github.com/geomer198/geomer-addons-repo-template.git some-repo
 # Commit that
 cd some-repo
 git add .
